@@ -49,7 +49,7 @@ ARP(Address Resolution Protocal)
 
 DNS 동작
 
-1. 브라우저는 URL로부터 호스트 네임 www.google.com을 추출하고 그 호스트 네임을 DNS 애플리케이션의 클라이언트 측에 넘긴다.
+1. 브라우저는 URL로부터 호스트 네임 www.google.com 을 추출하고 그 호스트 네임을 DNS 애플리케이션의 클라이언트 측에 넘긴다.
 
 2. DNS 클라이언트는 DNS 서버로 호스트 네임을 포함하는 질의를 보낸다.
 
