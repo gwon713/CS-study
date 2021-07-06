@@ -65,3 +65,9 @@ DNS 룩업
 
 
 
+참조 사이트
+https://godsenal.com/posts/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EB%A1%9C-%EC%9B%B9-%EC%82%AC%EC%9D%B4%ED%8A%B8%EC%97%90-%EC%A0%91%EC%86%8D%ED%95%A0-%EB%95%8C-%EA%B3%BC%EC%A0%95/
+
+https://deveric.tistory.com/97
+
+https://github.com/ksundong/backend-interview-question
