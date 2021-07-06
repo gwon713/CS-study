@@ -1,8 +1,7 @@
 # CS-study
 
 ## 네트워크
-### https://www.google.com/ 을 접속할 때 일어나는 일
-- https://github.com/users/gwon713/projects/4#card-64387834
+### 브라우저에서 웹페이지를 접속하면 발생하는 일(./Network/Network_01_about_connect_website.md)
 
 ## 운영체제
 
