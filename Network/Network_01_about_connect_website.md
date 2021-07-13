@@ -12,7 +12,7 @@
 5. TCP연결에 성공하면 HTTP Request가 TCP Socket을 통해 보내지고, 응답으로 웹페이지의 정보가 사용자의 PC로 들어온다.
 
 
-### 크롬의 경우 (LAN관련도 포함)
+### LAN관련도 포함
 1. 브라우저가 URL에 적힌 값을 파싱해서 HTTP Request Message를 만들고, OS에 전송 요청. 이 때, Domain으로 요청을 보낼 수 없기 때문에 DNS Lookup을 수행을 한다
 
 * DNS 룩업 과정 
@@ -66,7 +66,8 @@ DNS 동작
    
 
 DNS 룩업
-
+크롬의 경우 브라우저 → hosts 파일 → DNS Cache의 순서로 도메인에 매칭되는 ip를 찾는다.
+일반적으로 설명하는 DNS Lookup은 루트 도메인서버에서부터 서브도메인 서버순으로 찾게된다
 
 
 
