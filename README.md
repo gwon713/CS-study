@@ -2,7 +2,7 @@
 
 ## 네트워크
 #### [브라우저에서 웹페이지를 접속하면 발생하는 일](./Network/Network_01_about_connect_website.md)
-#### [TCP와 UDP 특징, 차이](./Network/Network_02_TCP&UDP.md)
+#### [TCP와 UDP 특징, 차이 & TCP 3,4 way handshake](./Network/Network_02_TCP&UDP.md)
 
 #### [HTTP & HTTPS](./Network/Network_03_HTTP&HTTPS.md)
 
